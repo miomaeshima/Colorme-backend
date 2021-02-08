@@ -5,7 +5,7 @@ import openpyxl
 import json
 from colorsE import colorsE
 from colorsJ import colorsJ
-from colors import colors 
+
 
 app = Flask(__name__)
 CORS(app)
