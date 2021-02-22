@@ -1,11 +1,11 @@
 How to start the backend server
 
 1. Open the terminal
-2. Enter the code below.
+<!-- 2. Enter the code below.
 ```
 virtualenv
-```
-3. Enter the code below to activate environment.
+``` -->
+2. Enter the code below to activate environment.
 ```
 env\Scripts\activate
 ```
@@ -17,9 +17,9 @@ then
 ```
 env\Scripts\activate
 ``` 
-4. Enter 
+3. Enter 
 ```
 python app.py
 ```
-5. If the front-end server is up and running, you can get the color name. 
+4. If the front-end server is up and running, you can get the color name. 
 
